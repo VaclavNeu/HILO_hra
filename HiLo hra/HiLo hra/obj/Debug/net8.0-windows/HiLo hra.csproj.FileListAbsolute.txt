@@ -1,0 +1,17 @@
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\bin\Debug\net8.0-windows\HiLo hra.exe
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\bin\Debug\net8.0-windows\HiLo hra.deps.json
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\bin\Debug\net8.0-windows\HiLo hra.runtimeconfig.json
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\bin\Debug\net8.0-windows\HiLo hra.dll
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\bin\Debug\net8.0-windows\HiLo hra.pdb
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo_hra.Form1.resources
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.csproj.GenerateResource.cache
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.AssemblyInfoInputs.cache
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.AssemblyInfo.cs
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.csproj.CoreCompileInputs.cache
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.dll
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\refint\HiLo hra.dll
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.pdb
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo hra.genruntimeconfig.cache
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\ref\HiLo hra.dll
+C:\Users\atakm\source\repos\HiLo hra\HiLo hra\obj\Debug\net8.0-windows\HiLo_hra.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HiLo hra/1.0.0": {
+        "runtime": {
+          "HiLo hra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HiLo hra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
